@@ -1,0 +1,2 @@
+# MoveInputViewWithKeyBoard
+点击输入框（UITextField或者UITextView）弹出键盘，并且不覆盖输入框
